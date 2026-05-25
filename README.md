@@ -27,8 +27,10 @@ A full-stack travel itinerary planning web application featuring interactive map
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tbduyy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbduyy&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=tbduyy&show_icons=true&theme=radical" alt="Duy's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=tbduyy&layout=compact&theme=radical" alt="Top Langs" height="150" />
+</p>
 
 ---
 📫 How to reach me: [tbduy.dev@gmail.com](mailto:tbduy.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tr%E1%BA%A7n-b%C3%ACnh-duy-612954363/)
